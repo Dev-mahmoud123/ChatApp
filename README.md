@@ -2,7 +2,7 @@
 ChatApp is a project that I started to improve my Android Development knowledge.
 
 It uses [Firebase's](https://firebase.google.com) Authentication/Database/Storage/Messaging/CrashReporting libraries for it's implementation and other libraries
-like Glide lib - CircleImage lib - Retrofit lib .
+like Glide lib - CircleImageView lib - Retrofit lib .
 
 # Preview
 
